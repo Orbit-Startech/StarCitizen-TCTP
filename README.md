@@ -1,7 +1,11 @@
 # 星際公民繁體中文(台灣本地化修正)翻譯計畫
 此計畫旨在針對遊戲內容、設定選項以及部分機器翻譯內容進行台灣本地化修正，並基於現實專業資料與遊戲世界觀架構的深入研究來提供頂尖水準的翻譯。
 
+[**立即下載**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)
+
 ![image.png](https://s2.loli.net/2024/05/10/fQjzaOGX9UstqBN.jpg)
+
+與我們一同改進翻譯品質：[加入 Discord](https://discord.gg/4YKMayH2AD)・[翻譯修正建議](https://forms.gle/ThwfANhAvqo2NbfE8)
 
 --------------------------------------------------
 
@@ -14,24 +18,25 @@
 --------------------------------------------------
 
 ## **文件下載**
-[**SCTT 下載**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)
-> 下載完畢後請將文件副檔名改為 ".ini"，否則將會無法使用翻譯文件 。
+[**SCTT**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)
+> 透過 sctranslator.danidomen.com 下載最新版本 (下載完畢後請將文件副檔名改為 ".ini"，否則將會無法使用翻譯文件)
 
-[**翻譯修正建議**](https://forms.gle/ThwfANhAvqo2NbfE8)
+[**Github**](https://github.com/everland-3769/StarCitizen-TCTP/releases)
+> 透過 Github 查閱/下載所有歷史發行版本
 
 --------------------------------------------------
 
 ## **安裝方式** - 自動安裝 I (建議)
-此方法最簡單快速，但需要安裝 [星際公民盒子](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fjihulab.com%2FStarCitizenCN_Community%2FStarCitizenDoctor%2F-%2Freleases) 才能使用。星際公民盒子有自帶繁體中文翻譯，但翻譯內容為簡體中文直譯，未經過台灣本地化修正，並且缺少部分文本翻譯內容，因此不推薦使用。
+此方法最簡單快速，但需要安裝 [SC工具箱](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fjihulab.com%2FStarCitizenCN_Community%2FStarCitizenDoctor%2F-%2Freleases) 才能使用。SC工具箱有自帶繁體中文翻譯，但翻譯內容為簡體中文直譯，未經過台灣本地化修正，並且缺少部分文本翻譯內容，因此較不推薦使用。
 
 **影片教學：**
 https://www.youtube.com/watch?v=Ei1ZdvlBVPs
 
-此安裝方式由 `星际公民汉化组` 提供 / [網站](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.starcitizenzw.com%2F)
+此安裝方式由 `星际公民汉化组` 提供 / [網站](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.starcitizenzw.com%2F)・[Github](https://github.com/StarCitizenToolBox)
 
 --------------------------------------------------
 
-## **安裝方式** - 自動安裝II
+## **安裝方式** - 自動安裝 II
 此方法目前只適用在那些將遊戲本體安裝在 系統碟(如D槽) 以外的玩家，如果你的遊戲安裝在系統碟的話，進行自動安裝時將會被系統權限阻擋。
 
 **步驟：**
@@ -40,7 +45,7 @@ https://www.youtube.com/watch?v=Ei1ZdvlBVPs
 - 選擇一種安裝方式。
 - 享受你的繁體中文本地化翻譯！
 
-此安裝方式由 `dynameis_tw` 提供 / [Github 原始碼](https://github.com/hsinyu-chen/SC-localization-installer)
+此安裝方式由 `dynameis_tw` 提供 / [Github](https://github.com/hsinyu-chen/SC-localization-installer)
 
 --------------------------------------------------
 
