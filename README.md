@@ -12,10 +12,10 @@
 --------------------------------------------------
 
 ## **文件下載**
-﻿
-- [**SCTT 下載**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)
-> 註解：下載完畢後請將文件副檔名改為 ".ini"，否則將會無法使用翻譯文件 。
-- [**翻譯修正建議**](https://forms.gle/ThwfANhAvqo2NbfE8)
+[**SCTT 下載**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)
+> 下載完畢後請將文件副檔名改為 ".ini"，否則將會無法使用翻譯文件 。
+
+[**翻譯修正建議**](https://forms.gle/ThwfANhAvqo2NbfE8)
 
 --------------------------------------------------
 
