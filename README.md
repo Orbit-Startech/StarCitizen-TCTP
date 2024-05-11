@@ -27,9 +27,10 @@
 --------------------------------------------------
 
 ## **安裝方式** - 自動安裝 I (建議)
-此方法最簡單快速，但需要安裝 [SC工具箱](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fjihulab.com%2FStarCitizenCN_Community%2FStarCitizenDoctor%2F-%2Freleases) 才能使用。SC工具箱有自帶繁體中文翻譯，但翻譯內容為簡體中文直譯，未經過台灣本地化修正，並且缺少部分文本翻譯內容，因此較不推薦使用。
+此方法非常簡單快捷，只需要安裝 [SC工具箱](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fjihulab.com%2FStarCitizenCN_Community%2FStarCitizenDoctor%2F-%2Freleases) 就能進行繁體中文的安裝，工具箱有此計劃提供的繁體中文翻譯版本，你只需要點擊安裝即可完成所有安裝步驟。
 
 **影片教學：**
+你也可以透過下面的影片教學安裝其他來源的翻譯文件。
 https://www.youtube.com/watch?v=Ei1ZdvlBVPs
 
 此安裝方式由 `星际公民汉化组` 提供 / [網站](https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.starcitizenzw.com%2F)・[Github](https://github.com/StarCitizenToolBox)
@@ -50,6 +51,7 @@ https://www.youtube.com/watch?v=Ei1ZdvlBVPs
 --------------------------------------------------
 
 ## **安裝方式** - 手動安裝
+這個方法適用於那些對電腦操作有一定基礎的玩家，這個方法在初次安裝時可能需要耗費一點功夫。
 
 **步驟：**
 - 在以下路徑中創建一個新資料夾：
@@ -66,6 +68,3 @@ https://www.youtube.com/watch?v=Ei1ZdvlBVPs
 2. 將副檔名由 .txt 更改為 .cfg
 3. 將 “user.cfg” 放入路徑：\StarCitizen\LIVE
 4. 可使用記事本或其他文字編輯器開啟並編輯 “user.cfg”。
-
-
-此安裝方式由 `sipher.hsieh` 提供 / [Discord 伺服器](https://discord.com/channels/843863687844200488/1168098715525976094)
