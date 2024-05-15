@@ -24,7 +24,7 @@
 [**Github (StarCitizenToolBox)**](https://github.com/everland-3769/StarCitizen-TCTP/releases)
 > 透過 SC工具箱的 Github 倉庫查閱/下載所有歷史發行版本 (此倉庫包含了漢化組提供的簡體中文翻譯，如需使用由 TCTP 提供的繁體中文版本請下載版本後綴帶有 `TW` 的文件)
 
-~~[**SCTT**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)~~
+~~[**SC Translation Tool**](https://sctranslator.danidomen.com/download?locale=cn_traditional&hash=4ff20a445456db1ef318f3b1c000b481)~~
 > 警告！3.23 的版本已失效！請暫時不要使用這個下載方式取得文件。透過 SC Translation Tool 下載最新版本 (下載完畢後請將文件副檔名改為 ".ini"，否則將會無法使用翻譯文件)
 
 ---
