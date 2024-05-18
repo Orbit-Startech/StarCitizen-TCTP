@@ -1,0 +1,3 @@
+files:
+  - source: /en/*.ini
+    translation: /chinese_(traditional)/%language%
